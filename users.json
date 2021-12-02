@@ -1,9 +1,9 @@
 [
-  { "id": 1, "name": "rama", "age": "21" },
-  { "id": 2, "name": "ardi", "age": "21" },
-  { "id": 3, "name": "ares", "age": "20" },
-  { "id": 4, "name": "fajrul", "age": "20" },
-  { "id": 5, "name": "rafif", "age": "20" },
-  { "id": 6, "name": "Budi", "age": "24" },
-  { "id": 7, "name": "Ari", "age": "23" }
+  { "id": 1, "name": "rama", "password": "ggwp", "age": "21" },
+  { "id": 2, "name": "ardi", "password": "ggwp", "age": "21" },
+  { "id": 3, "name": "ares", "password": "ggwp", "age": "20" },
+  { "id": 4, "name": "fajrul", "password": "ggwp", "age": "20" },
+  { "id": 5, "name": "rafif", "password": "ggwp", "age": "20" },
+  { "id": 6, "name": "Budi", "password": "ggwp", "age": "24" },
+  { "id": 7, "name": "Ari", "password": "ggwp", "age": "23" }
 ]
