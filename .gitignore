@@ -1,4 +1,4 @@
-node_modules
 .rest
 .env
-static
+/node_modules/
+/static/
